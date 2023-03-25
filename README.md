@@ -1,5 +1,5 @@
 # JavaScript-Notebook
-This Repo includes my Projects and Solved challenges that I solved along the way.
+This Repo includes my Projects and solved challenges.
 
 Projects and challenges that I solved and projects made were given and owned by Scrimba.com
 
