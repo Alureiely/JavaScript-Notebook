@@ -4,7 +4,7 @@ This Repo includes my Projects and solved challenges.
 Projects and challenges that I solved and projects made were given and owned by Scrimba.com
 
 Topics covered are the following:
-•	Script tag,
+•	Script tag, <br>
 •	Variables,
 •	Numbers,
 •	Strings,
