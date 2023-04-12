@@ -5,33 +5,33 @@ Projects and challenges that I solved and projects made were given and owned by 
 
 Topics covered are the following:
 •	Script tag, <br>
-•	Variables,
-•	Numbers,
-•	Strings,
-•	console.log(),
-•	Functions,
-•	The DOM,
-•	getElementById(),
-•	innerText,
-•	textContent,
-•	Arrays,
-•	Objects,
-•	Booleans,
-•	If else statements,
-•	Comparison operators,
-•	Logical operators,
-•	For loops,
-•	The Math object,
-•	Return statements,
-•	Const,
-•	addEvenetListener(),
-•	innerHTML,
-•	input.value,
-•	function parameters,
-•	Template strings,
-•	localStorage,
-•	The JSON object
-•	Objects in arrays
+•	Variables,<br>
+•	Numbers,<br>
+•	Strings,<br>
+•	console.log(), <br>
+•	Functions, <br>
+•	The DOM,<br>
+•	getElementById(),<br>
+•	innerText,<br>
+•	textContent,<br>
+•	Arrays,<br>
+•	Objects,<br>
+•	Booleans,<br>
+•	If else statements,<br>
+•	Comparison operators,<br>
+•	Logical operators,<br>
+•	For loops,<br>
+•	The Math object,<br>
+•	Return statements,<br>
+•	Const,<br>
+•	addEvenetListener(),<br>
+•	innerHTML,<br>
+•	input.value,<br>
+•	function parameters,<br>
+•	Template strings,<br>
+•	localStorage,<br>
+•	The JSON object,<br>
+•	Objects in arrays.<br>
 
 
 test
